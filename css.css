@@ -1,0 +1,90 @@
+body{text-align: center}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	padding-left: 40%;
+    overflow: hidden;
+    background-color: black;
+
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #2E2A2A;
+}
+
+/*forside-css */
+
+.index-container{
+	display: block;
+	width: 100%;
+	height: auto;
+	padding: 0;
+	margin: auto;
+	
+	
+}
+
+.text{
+	width: 40%;
+	height: auto;
+	float: left;
+	padding-bottom: 160px;
+	margin: 0;
+	
+	
+}
+
+.billed{
+	width: 47%;
+	height: auto;
+	float: right;
+	padding-bottom: 30px;
+	
+	
+}
+
+.footer{
+	left: 0;
+	bottom: 0px;
+	width: 100%;
+	background-color: #000000;
+	color: white;
+	text-align: center;
+	height: 50px;
+	font-size: 20px;
+
+	
+}
+	
+.footer p{
+		display: inline;
+		margin-left: 60px;
+		margin-right: 100px
+	  
+	}
+	
+.video{
+	margin:auto;
+	margin-top: 5%;
+	margin-bottom: 30px;
+	left: 30%;
+
+
+	
+	
+}
